@@ -16,6 +16,12 @@
 
 #### 第五例 爬取菜鸟教程的python100例
     
+#### 第六例  爬取新浪微博头条前20页
+    使用ajax + mysql
+    why? base_url = 'https://weibo.com/a/aj/transform/loadingmoreunlogin?'
+    host='localhost',user='root',password='123456',database='py_sp_test',table='sina_news'
+    
+
 
 
 
