@@ -20,9 +20,11 @@
     使用ajax + mysql
     why? base_url = 'https://weibo.com/a/aj/transform/loadingmoreunlogin?'
     host='localhost',user='root',password='123456',database='py_sp_test',table='sina_news'
-    
-
-
+    公司内网，不敢多下
+#### 第七例  爬取搜狗指定图片
+    多线程知识的学习
+    报错：json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+    对多线程有所了解，报错得空解决，先跑下一个
 
 
 
