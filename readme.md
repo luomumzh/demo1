@@ -16,16 +16,18 @@
 
 #### 第五例 爬取菜鸟教程的python100例
     
-#### 第六例  爬取新浪微博头条前20页
+#### 第六例 爬取新浪微博头条前20页
     使用ajax + mysql
     why? base_url = 'https://weibo.com/a/aj/transform/loadingmoreunlogin?'
     host='localhost',user='root',password='123456',database='py_sp_test',table='sina_news'
     公司内网，不敢多下
-#### 第七例  爬取搜狗指定图片
+#### 第七例 爬取搜狗指定图片
     多线程知识的学习
     报错：json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
     对多线程有所了解，报错得空解决，先跑下一个
-
+#### 第八例 爬取猫眼电影（使用正则表达式）
+    对正则表达式进行复习
+    group()报错
 
 
 
